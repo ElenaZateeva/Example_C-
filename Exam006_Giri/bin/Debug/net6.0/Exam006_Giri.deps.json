@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exam006_Giri/1.0.0": {
+        "runtime": {
+          "Exam006_Giri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exam006_Giri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
